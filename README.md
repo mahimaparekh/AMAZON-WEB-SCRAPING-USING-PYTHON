@@ -15,11 +15,11 @@ To run this project:
 3. This project utilizes an api key to allow access to the Amazon website. Create an account in ScraperApi from this link: https://dashboard.scraperapi.com/login and replace the api key in the python code with your api key.
 4. Open Anaconda and launch Jupyter Notebook.
 5. Upload the file "Amazon Web Scraping.ipynb"
-6. Run each code and your extracted data will be saved in a file named "AmazonBestSellers.csv"
+6. Run each code and your extracted data will be saved in a file named "AmazonBestSellers.csv". Take note that the data extracted from Amazon's best-selling website will differ from the one provided above as the data on the website is inherently dynamic and subject to constant changes due to various factors
 7. The cleaned data will then be saved in a file names "Amazon_Web_Scraping_Cleaned_Data.csv"
    
 ## Results and Findings
-* The data scraped and cleaned was then visualized in Tableau. The insights gained can be found in the file "Report.pdf"
+* The data scraped and cleaned was visualized in Tableau. The insights gained can be found in the file "Report.pdf"
 * The visualization on tableau can be viewed here: 
 
 'Feel free to explore the provided SQL queries and modify them according to your requirements. The project can be further extended by incorporating additional datasets, refining the analysis, or implementing advanced statistical models.'
