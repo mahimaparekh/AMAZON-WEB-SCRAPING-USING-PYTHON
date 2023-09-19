@@ -7,7 +7,7 @@ Project Files:
 * Amazon Web Scraping.ipynb: This file contains the Python Script used to extract data from Amazon India's Website
 * AmazonBestSellers.csv: This file contains the scraped data of the top 30 best selling products in every category as of 07/09/2023 performed using ScraperApi and the Python library BeautifulSoup
 * Amazon_Web_Scraping_Cleaned_Data.csv: This file contains data after data cleaning was performed using the Python library Pandas
-* Visualization.txt
+* Amazon Bestseller's Dashboard.twbx: This file contains the Dashboard created in Tableau
 
 To run this project:
 1. Clone or download this repository to your local machine
@@ -20,6 +20,6 @@ To run this project:
    
 ## Results and Findings
 * The data scraped and cleaned was visualized in Tableau. The insights gained can be found in the file "Report.pdf"
-* The visualization on tableau can be viewed here: 
+* The visualization on tableau can also be viewed online: https://public.tableau.com/app/profile/mahima.parekh/viz/AmazonBestsellersDashboard/Dashboard1?publish=yes
 
 'Feel free to explore the provided SQL queries and modify them according to your requirements. The project can be further extended by incorporating additional datasets, refining the analysis, or implementing advanced statistical models.'
