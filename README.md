@@ -22,4 +22,4 @@ To run this project:
 * The data scraped and cleaned was visualized in Tableau. The insights gained can be found in the file "Report.pdf"
 * The visualization on tableau can also be viewed online: https://public.tableau.com/app/profile/mahima.parekh/viz/AmazonBestsellersDashboard/Dashboard1?publish=yes
 
-'Feel free to explore the provided SQL queries and modify them according to your requirements. The project can be further extended by incorporating additional datasets, refining the analysis, or implementing advanced statistical models.'
+'Feel free to explore the provided the dashboard and modify them according to your requirements. The project can be further extended for a more in-depth analysis by adding/scraping additional Amazon products data to the dataset'
